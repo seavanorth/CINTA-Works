@@ -1,2 +1,2 @@
-# Repository Name: hellogit
-# This is a testing README file for my first repository on github.
+# Readme-CN
+课程《面向信息时代的计算机数学》的课后作业
